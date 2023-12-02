@@ -1,0 +1,60 @@
+#gameOutput {
+  max-height: 300px;
+  overflow-y: auto;
+  border: 2px solid #ccc;
+  padding: 10px;
+  font-family: "Courier New", monospace;
+}
+
+/* body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+#gameArea {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  background-color: green;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#player1Area,
+#player2Area {
+  background-color: grey;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.deckArea,
+.handArea,
+.benchArea {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding: 10px;
+  min-height: 100px;
+}
+
+.benchArea {
+  background-color: darkred;
+}
+
+.handArea {
+  background-color: darkblue;
+}
+
+.deckArea {
+  background-color: rgb(181, 181, 53);
+}
+
+#actionButtons button {
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+
+#consoleArea {
+  border-top: 1px solid #ddd;
+  margin-top: 20px;
+  padding: 10px;
+} */
